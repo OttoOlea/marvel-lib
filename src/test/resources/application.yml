@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: marvel-lib
+
+marvel:
+  config:
+    key:
+      private: 4eca178ca719e6d
+      public: 49e6db64511c20ada1a777
+    timestamp: '1'
+  path-base:
+    api: http://gateway.marvel.com/v1/public/
