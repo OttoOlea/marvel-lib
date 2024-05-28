@@ -74,6 +74,7 @@ class MarvelServiceLibImplTest {
         MarvelResponse allCharaters = marvelServiceLib.getAllCharaters();
 
         System.out.println(allCharaters.toString());
+
         assertNotNull(allCharaters);
     }
 
